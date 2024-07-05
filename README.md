@@ -35,7 +35,7 @@
                 <tr>
                     <td>
                         Email:
-                        <input type="email" placeholder="e-mail address">
+                        <input type="email" placeholder="e-mail address">Azmat 
                     </td>
                 </tr>
             
